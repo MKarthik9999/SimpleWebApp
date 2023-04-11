@@ -1,2 +1,2 @@
-#ignoring class files
+#ignoring class files which will ignore files ending with .class	
 *.class 
